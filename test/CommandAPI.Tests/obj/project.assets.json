@@ -1673,16 +1673,13 @@
       },
       "CommandAPI/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
           "bin/placeholder/CommandAPI.dll": {}
         },
         "runtime": {
           "bin/placeholder/CommandAPI.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -6019,8 +6016,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект CommandAPI несовместим с net5.0 (.NETCoreApp,Version=v5.0). Проект CommandAPI поддерживает: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "CommandAPI",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

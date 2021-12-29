@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "p9iqMzl6fjy3buwAQ7LTC/RKEudMLul0xpqPzEY6RntBZbaRBNgGl+khu6Kl71mEJWgPn6UjqfNUauhA4UkQbA==",
-  "success": true,
+  "dgSpecHash": "h01fE1pJcVB5rfJEmhpQQlwKvxP7y/PPln07xUSecd7fAsrjAYZdsCdREglqs2zG8QLmgMFMOO01h9Fc3DqU8A==",
+  "success": false,
   "projectFilePath": "E:\\Study\\ASP.NET\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tischenko\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
@@ -97,5 +97,15 @@
     "C:\\Users\\Tischenko\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
     "C:\\Users\\Tischenko\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект CommandAPI несовместим с net5.0 (.NETCoreApp,Version=v5.0). Проект CommandAPI поддерживает: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "CommandAPI",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
