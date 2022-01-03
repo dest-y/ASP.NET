@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac188c28-fe7b-4a29-8b87-3da122a0d394": {
+      "ProjectGuid": "ac188c28-fe7b-4a29-8b87-3da122a0d394",
+      "DisplayName": "CommandAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
