@@ -27,3 +27,5 @@ E:\Study\ASP.NET\CommandAPISolution\src\CommandAPI\obj\Debug\net6.0\CommandAPI.d
 E:\Study\ASP.NET\CommandAPISolution\src\CommandAPI\obj\Debug\net6.0\ref\CommandAPI.dll
 E:\Study\ASP.NET\CommandAPISolution\src\CommandAPI\obj\Debug\net6.0\CommandAPI.pdb
 E:\Study\ASP.NET\CommandAPISolution\src\CommandAPI\obj\Debug\net6.0\CommandAPI.genruntimeconfig.cache
+E:\Study\ASP.NET\CommandAPISolution\src\CommandAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\Study\ASP.NET\CommandAPISolution\src\CommandAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
