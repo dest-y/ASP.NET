@@ -115,3 +115,5 @@ E:\Study\ASP.NET\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net6.0\Comma
 E:\Study\ASP.NET\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net6.0\ref\CommandAPI.Tests.dll
 E:\Study\ASP.NET\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net6.0\CommandAPI.Tests.pdb
 E:\Study\ASP.NET\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net6.0\CommandAPI.Tests.genruntimeconfig.cache
+E:\Study\ASP.NET\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net6.0\Castle.Core.dll
+E:\Study\ASP.NET\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net6.0\Moq.dll

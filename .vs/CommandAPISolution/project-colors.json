@@ -10,7 +10,12 @@
       "ProjectGuid": "6aefee88-86da-4fdb-b34e-ca09f91d2f8c",
       "DisplayName": "CommandAPI.Tests",
       "ColorIndex": 1
+    },
+    "0afb298e-181d-4b6a-81af-cc17cf8348dc": {
+      "ProjectGuid": "0afb298e-181d-4b6a-81af-cc17cf8348dc",
+      "DisplayName": "test",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
